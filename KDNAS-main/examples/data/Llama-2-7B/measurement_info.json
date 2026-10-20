@@ -1,0 +1,6 @@
+{
+    "batch_size": 1,
+    "sequence_length": 2048,
+    "gpu": "NVIDIA RTX 4090",
+    "dtype": "fp16"
+}
